@@ -27,7 +27,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
 
       leading: IconButton(
         icon: const Icon(Icons.arrow_back_ios_new),
-        onPressed: onBack ?? () => Navigator.pop(context),
+        onPressed: onBack ?? () =>  Navigator.pop(context),
       ),
 
       actions: [
