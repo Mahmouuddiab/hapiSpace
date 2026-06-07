@@ -64,69 +64,28 @@ Whether users are searching for their next home, browsing premium properties, or
 
 ## 📱 Screenshots
 
-### Splash Screen
-
-![Splash Screen](screenshots/splash.png)
-
-### Boarding1 Screen
-
-![Boarding1 Screen](screenshots/onboardin1.png)
-
-### Boarding2 Screen
-
-![Boarding2 Screen](screenshots/onboardin2.png)
-
-### Boarding3 Screen
-
-![Boarding3 Screen](screenshots/onboardin3.png)
-
-### Login Screen
-
-![Login Screen](screenshots/login.png)
-
-### Register Screen
-
-![Register Screen](screenshots/register.png)
-
-### Home Screen
-
-![Home Screen](screenshots/home.png)
-
-### Details Screen
-
-![Details Screen](screenshots/details.png)
-
-### Filter Screen
-
-![Filter Screen](screenshots/filter.png)
-
-### Booking Screen
-
-![Booking Screen](screenshots/booking.png)
-
-### 3D Screen
-
-![3D Screen](screenshots/3d.png)
-
-### Chat Screen
-
-![Chat Screen](screenshots/chat.png)
-
-### Favorite Screen
-
-![Favorite Screen](screenshots/favorite.png)
-
-### Map Screen
-
-![Map Screen](screenshots/map.png)
-
-### History Screen
-
-![History Screen](screenshots/history.png)
-
-### Profile Screen
-
-![Profile Screen](screenshots/profile.png)
+<table> <tr> <td align="center"> <img src="screenshots/splash.png" width="200"/><br/> <b>Splash
+Screen</b> </td> <td align="center"> <img src="screenshots/onboardin1.png" width="200"/><br/>
+<b>Boarding 1 Screen</b> </td> <td align="center"> <img src="screenshots/onboardin2.png"
+width="200"/><br/> <b>Boarding 2 Screen</b> </td> </tr>
+<tr> <td align="center"> <img src="screenshots/onboardin3.png" width="200"/><br/> <b>Boarding 3
+Screen</b> </td> <td align="center"> <img src="screenshots/login.png" width="200"/><br/> <b>Login
+Screen</b> </td> <td align="center"> <img src="screenshots/register.png" width="200"/><br/>
+<b>Register Screen</b> </td> </tr>
+<tr> <td align="center"> <img src="screenshots/home.png" width="200"/><br/> <b>Home Screen</b>
+</td> <td align="center"> <img src="screenshots/details.png" width="200"/><br/> <b>Details Screen</
+b> </td> <td align="center"> <img src="screenshots/filter.png" width="200"/><br/> <b>Filter Screen</b>
+</td> </tr>
+<tr> <td align="center"> <img src="screenshots/booking.png" width="200"/><br/> <b>Booking Screen</
+b> </td> <td align="center"> <img src="screenshots/3d.png" width="200"/><br/> <b>3D View Screen</
+b> </td> <td align="center"> <img src="screenshots/chat.png" width="200"/><br/> <b>Chat Screen</b>
+</td> </tr>
+<tr> <td align="center"> <img src="screenshots/favorite.png" width="200"/><br/> <b>Favorite Screen</
+b> </td> <td align="center"> <img src="screenshots/map.png" width="200"/><br/> <b>Map Screen</b>
+</td> <td align="center"> <img src="screenshots/history.png" width="200"/><br/> <b>History Screen</
+b> </td> </tr>
+<tr> <td align="center"> <img src="screenshots/profile.png" width="200"/><br/> <b>Profile Screen</b>
+</td> </tr> </table>
 
 ---
 
